@@ -1,0 +1,23 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click==8.2.1
+docutils==0.21.2
+filetype==1.2.0
+idna==3.10
+Kivy==2.3.1
+Kivy-Garden==0.1.5
+markdown-it-py==3.0.0
+mdurl==0.1.2
+prompt_toolkit==3.0.51
+Pygments==2.19.1
+# Editable install with no version control (pymobile==0.1)
+-e /home/giwa-khutab/Desktop/Khattab Files/Khattab Folder/projects/python-projects/pymobile
+-e git+ssh://git@github.com/abdulhameedkhattab07/pywebwizard.git@13e3d70b89c38ffb49785662823d4b8dfe6ceef3#egg=pywebwizard
+questionary==2.1.0
+requests==2.32.3
+rich==14.0.0
+setuptools==78.1.0
+urllib3==2.3.0
+watchdog==6.0.0
+wcwidth==0.2.13
+webcolors==24.11.1
